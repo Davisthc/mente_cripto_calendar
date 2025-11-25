@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2025-11-25",
+    "time": "14:30",
+    "country": "USD",
+    "impact": "high",
+    "title": "Confiança do Consumidor CB",
+    "previous": "102.6",
+    "forecast": "101.0",
+    "actual": null
+  },
+  {
+    "date": "2025-11-25",
+    "time": "16:00",
+    "country": "EUR",
+    "impact": "medium",
+    "title": "Índice de Sentimento Econômico (ZEW)",
+    "previous": "98.1",
+    "forecast": "99.5",
+    "actual": null
+  }
+]
